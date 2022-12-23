@@ -208,6 +208,7 @@
 	"0x18c": "Rescue-ACE",
 	"0x18d": "Purery",
 	"0x18e": "Mikanko",
+	"0x18f": "Aquamirror",
 	"0x19": "Gladiator Beast",
 	"0x1a": "Dark Scorpion",
 	"0x1b": "Phantom Beast",
