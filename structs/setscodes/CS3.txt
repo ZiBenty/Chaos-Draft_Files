@@ -1,1 +1,0 @@
-["TAEV", "GLAS", "PTDN", "LODT", "TDGS", "CSOC", "CRMS", "RGBT", "ANPR", "SOVR", "ABPF", "TSHD", "DREV", "STBL", "STOR", "EXVC", "GENF", "PHSW", "ORCS", "GAOV", "REDU", "ABYR", "CBLZ", "LTGY", "JOTL", "SHSP", "LVAL", "PRIO", "DUEA", "NECH", "SECE", "CROS", "CORE", "DOCS"]

@@ -1,1 +1,0 @@
-["HSRD", "BOSH", "SHVI", "WIRA", "TDIL", "INOV", "RATE", "MACR", "COTD", "CIBR", "EXFO", "FLOD", "CYHO", "SOFU", "SAST", "DANE"]

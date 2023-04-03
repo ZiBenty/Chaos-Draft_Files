@@ -1,1 +1,0 @@
-["TOCH", "GEIM", "ANGU", "KICO", "GRCR", "TAMA"]
