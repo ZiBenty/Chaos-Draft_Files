@@ -311,7 +311,7 @@
 	"0x5008": "Vision HERO",
 	"0x5042": "Nordic Relic",
 	"0x504e": "Evolzar",
-	"0x507A": "Infernoble Knight",
+	"0x507a": "Infernoble Knight",
 	"0x51": "Gadget",
 	"0x514d": "Spiritual Fire Art",
 	"0x52": "Guardian",
